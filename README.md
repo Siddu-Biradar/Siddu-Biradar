@@ -141,7 +141,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=500&lines=Open+to+new+opportunities!;Let's+build+something+amazing+together!" alt="CTA Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Open+to+new+opportunities!;Let's+build+something+amazing+together!" alt="CTA Typing" />
 
   <br/><br/>
 
@@ -150,15 +150,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:biradarsiddu789@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://siddu-biradar.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
-  <sub>Made with ❤️ by Siddu Biradar</sub>
 
 </div>
