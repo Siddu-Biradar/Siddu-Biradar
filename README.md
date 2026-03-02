@@ -130,15 +130,34 @@
 ---
 
 <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!%20🙏&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
+
+  <br/>
+
   <img src="https://komarev.com/ghpvc/?username=Siddu-Biradar&color=3584E4&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
-  <b>💬 Open to exciting opportunities and collaborations!</b><br/><br/>
-  <i>If my profile interests you, let's connect!</i><br/><br/>
+  <b>🚀 Currently open to exciting opportunities and collaborations!</b><br/>
+  <sub>Full-Stack Developer | Angular · React · Python · Django · FastAPI</sub>
+
+  <br/><br/>
+
   <a href="https://www.linkedin.com/in/sidrameshwarbiradar/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼_Hire_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="mailto:biradarsiddu789@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://siddu-biradar.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=400&lines=If+you+like+my+work%2C+give+a+⭐;Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
+
 </div>
