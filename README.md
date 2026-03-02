@@ -141,7 +141,6 @@
   </picture>
   <br/><br/>
   <samp>
-    Looking for Full-Stack Developer roles | Available for freelance & full-time
   </samp>
   <br/><br/>
   <a href="https://www.linkedin.com/in/sidrameshwarbiradar/">
