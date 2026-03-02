@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Siddu+Biradar+%F0%9F%91%8B;Full-Stack+Developer+%40+Kyndryl+(IBM);Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3584E4,100:70a5fd&height=200&section=header&text=Siddu%20Biradar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Kyndryl%20(IBM)&descSize=18&descColor=ffffff&descAlignY=55" width="100%" />
 </div>
 
 <div align="center">
@@ -131,33 +131,34 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!%20🙏&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3584E4,100:70a5fd&height=100&section=footer" width="100%" />
 
-  <br/>
+</div>
+
+<div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=Siddu-Biradar&color=3584E4&style=for-the-badge&label=PROFILE+VIEWS" />
 
   <br/><br/>
 
-  <b>🚀 Currently open to exciting opportunities and collaborations!</b><br/>
-  <sub>Full-Stack Developer | Angular · React · Python · Django · FastAPI</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=500&lines=Open+to+new+opportunities!;Let's+build+something+amazing+together!" alt="CTA Typing" />
 
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/sidrameshwarbiradar/">
-    <img src="https://img.shields.io/badge/💼_Hire_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hire_Me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:biradarsiddu789@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://siddu-biradar.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=400&lines=If+you+like+my+work%2C+give+a+⭐;Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
+  <sub>Made with ❤️ by Siddu Biradar</sub>
 
 </div>
