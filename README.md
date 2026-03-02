@@ -130,25 +130,33 @@
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3584E4,100:70a5fd&height=100&section=footer" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:3584E4&height=2" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Siddu-Biradar&color=3584E4&style=for-the-badge&label=PROFILE+VIEWS" />
-
+  <picture>
+    <img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=for-the-badge" />
+  </picture>
   <br/><br/>
-
-  <h3>Open to new opportunities!</h3>
-
+  <samp>
+    Looking for Full-Stack Developer roles | Available for freelance & full-time
+  </samp>
+  <br/><br/>
   <a href="https://www.linkedin.com/in/sidrameshwarbiradar/">
     <img src="https://img.shields.io/badge/Message_Me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:biradarsiddu789@gmail.com">
     <img src="https://img.shields.io/badge/Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Siddu-Biradar&color=3584E4&style=flat-square&label=Profile+Views" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3584E4,100:70a5fd&height=80&section=footer" width="100%" />
 </div>
