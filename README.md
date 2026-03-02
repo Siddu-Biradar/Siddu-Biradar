@@ -141,12 +141,10 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Open+to+new+opportunities!;Let's+build+something+amazing+together!" alt="CTA Typing" />
-
-  <br/><br/>
+  <h3>Open to new opportunities!</h3>
 
   <a href="https://www.linkedin.com/in/sidrameshwarbiradar/">
-    <img src="https://img.shields.io/badge/Hire_Me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Message_Me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:biradarsiddu789@gmail.com">
