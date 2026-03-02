@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Siddu+Biradar+%F0%9F%91%8B;Full-Stack+Developer+%7C+Kyndryl+(IBM);Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=750&lines=Hey+there!+I'm+Siddu+Biradar+%F0%9F%91%8B;Full-Stack+Developer+%40+Kyndryl+(IBM);Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -121,13 +121,24 @@
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Siddu-Biradar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddu-Biradar&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddu-Biradar&color=3584E4&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Siddu-Biradar&color=3584E4&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
+<br/>
+
 <div align="center">
-  <b>💬 Open to exciting opportunities and collaborations!</b><br/>
-  <i>Let's build something amazing together.</i>
+  <b>💬 Open to exciting opportunities and collaborations!</b><br/><br/>
+  <i>If my profile interests you, let's connect!</i><br/><br/>
+  <a href="https://www.linkedin.com/in/sidrameshwarbiradar/">
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
