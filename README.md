@@ -130,18 +130,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:3584E4&height=2" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=for-the-badge" />
-  </picture>
-  <br/><br/>
-  <samp>
-  </samp>
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-success?style=for-the-badge" />
   <br/><br/>
   <a href="https://www.linkedin.com/in/sidrameshwarbiradar/">
     <img src="https://img.shields.io/badge/Message_Me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -153,8 +142,6 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Siddu-Biradar&color=3584E4&style=flat-square&label=Profile+Views" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3584E4,100:70a5fd&height=80&section=footer" width="100%" />
